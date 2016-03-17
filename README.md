@@ -67,4 +67,4 @@ Quick start
 spekti . "echo This folder has been modified"
 ```
   
-The message "This folder has been modified" will be displayed every time you add, remove or modify files in the current folder.
+The message *This folder has been modified* will be displayed every time you add, remove or modify files in the current folder.
